@@ -1,0 +1,19 @@
+{
+  "name": "@prashantraghav/mpt-tree",
+  "version": "1.0.0",
+  "description": "Creates tree structure of your multiple resources using polymorphic association. Algorithm used to access tree is Modified Preorder Traversal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpt-tree",
+    "modified",
+    "preorder",
+    "traversal",
+    "polymorphic",
+    "assocation."
+  ],
+  "author": "Prashant Raghav (https://github.com/prashantraghav)",
+  "license": "ISC"
+}
